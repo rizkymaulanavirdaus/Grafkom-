@@ -1,0 +1,2 @@
+# Grafkom-
+Project Tugas Grafkom 
